@@ -223,3 +223,18 @@
   </ul>
 </div>
 
+<style>
+html{
+  background-image: url('../assets/background.png') !important;
+}
+
+thead {
+  background: #000000;
+  color: white;
+}
+table.dataTable tbody tr{
+      background: #b4c8f7;
+    font-weight: 600;
+    color: black;
+}
+</style>
